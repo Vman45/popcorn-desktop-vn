@@ -91,7 +91,7 @@
     "trakt.tv-ondeck": "7.x.x",
     "underscore": "^1.8.3",
     "universal-analytics": "^0.4.20",
-    "urijs": "1.19.1",
+    "urijs": "1.19.6",
     "uuid": "^3.3.3",
     "video.js": "7.3.x",
     "videojs-youtube": "2.6.0",
